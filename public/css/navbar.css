@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #20385D;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 90px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.navbar-users{
+    display: inline-flex;
+    align-items: center;
+    color: gray;
+    background-color: white;
+    width: 110px;
+    height: 34px;
+    border-radius: 4px;
+}
+
+.navbar-users-name{
+    margin-left: 10px;
+}

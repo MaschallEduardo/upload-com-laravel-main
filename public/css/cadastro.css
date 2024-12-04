@@ -1,0 +1,29 @@
+.form{
+    background: linear-gradient(to left, #042536 0%, #2F4F7A 52%, #96BACD 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-cadastro{
+    width: 90%;
+}
+
+.form-cadastro-index{
+    font-size: 18px;
+    color: white;
+    margin-top: 15px;
+}
+
+.form-cadastro-titulo{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.form-cadastro-index-input{
+    color: black;
+    width: 100%;
+}

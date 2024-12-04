@@ -1,0 +1,31 @@
+.img-index{
+    width: 369px;
+    height: 250px;
+}
+
+#photo-position{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: flex-start;
+}
+
+#pop-up{
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+}
+
+.close{
+    left: 15px;
+    top: 10px;
+}
+
+.button-baixar{
+    background-color: #20385D;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
